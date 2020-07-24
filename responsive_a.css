@@ -11,6 +11,12 @@
   
   @media (min-width: 600px) {
     .c2, .c3, .c4, .c5 {
+      width: 50%;
+    }
+  }
+
+@media (max-width: 450px) {
+    img {
       width: 70%;
     }
   }
