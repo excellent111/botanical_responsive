@@ -15,9 +15,9 @@
     }
   }
 
-@media (max-width: 450px) {
+  @media (max-width: 450px) {
     img {
-      width: 85%;
+      width: 90%;
     }
   }
   
